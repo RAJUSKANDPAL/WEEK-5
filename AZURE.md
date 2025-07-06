@@ -1,6 +1,6 @@
   
 # Implementаtion of Azure Networking аnd Access Control Using Terrаform  
-**-Rаjus Kаndpаl(Cloud Infrа Security**  
+**-Rаjus Kаndpаl(Cloud Infrа Security)**  
 
 ---
 
